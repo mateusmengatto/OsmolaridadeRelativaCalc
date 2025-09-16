@@ -1,5 +1,6 @@
 Effective osmolality
 Portugese: Osmolaridade Efetiva 
+<img width="751" height="202" alt="Img" src="https://github.com/user-attachments/assets/5e09d414-1a43-4f9d-9640-068e07c356d6" />
 
 App to calculate the concentration of effective osmolality (a medicine student task);
 
@@ -23,3 +24,4 @@ The values for Na+, K+, Glucose, and BUN can be obtained through blood tests. It
 
 
 In summary, effective osmolality is a measure of the concentration of particles that affect fluid balance in the body, and it can be calculated using the concentrations of sodium, potassium, glucose, and blood urea nitrogen. Understanding effective osmolality is important for managing conditions such as dehydration, hyponatremia, and hypernatremia.
+
